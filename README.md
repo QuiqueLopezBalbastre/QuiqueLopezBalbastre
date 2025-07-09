@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Desktop apps<br>👯 I’m looking to collaborate on programming & designing videogames<br>🤝 I’m looking for help with backend for apps<br>🌱 I’m currently learning Kotlin, C# & C++<br>💬 Ask me about strategy games<br>⚡ Fun fact
+🔭 I’m currently working on PC videogames & Graphics Engines<br>👯 I’m looking to collaborate on programming & designing videogames<br>🤝 I’m looking for help with backend for apps<br>🌱 I’m currently learning Kotlin, C# & C++<br>💬 Ask me about strategy games<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
